@@ -18,6 +18,7 @@ You can try out the live application here:
 ## 📸 Screenshots
 
 ### 🎞️ Movie Discovery Page
+{BE1D18D8-EED7-4562-B0D5-95135B408E43}.png
 Users can search for movies and view popular or upcoming titles fetched directly from the **TMDB API**.
 
 ### 🧾 Personal Watchlist
@@ -56,18 +57,3 @@ This application was built using a modern, cloud-based stack:
 
 ---
 
-## 💡 Future Enhancements
-
-- 🔐 Add user authentication and session-based watchlists.  
-- ⭐ Enable rating and review features for watched movies.  
-- 🧠 Include AI-based movie recommendations using viewing patterns.
-
----
-
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-**Developed with ❤️ using Oracle APEX & OCI**
