@@ -18,10 +18,11 @@ You can try out the live application here:
 ## 📸 Screenshots
 
 ### 🎞️ Movie Discovery Page
-{BE1D18D8-EED7-4562-B0D5-95135B408E43}.png
+<img width="1920" height="947" alt="Image" src="https://github.com/user-attachments/assets/be08f18d-24b2-412f-977f-89d154c1072c" />
 Users can search for movies and view popular or upcoming titles fetched directly from the **TMDB API**.
 
 ### 🧾 Personal Watchlist
+<img width="1920" height="942" alt="Image" src="https://github.com/user-attachments/assets/e77e8c26-ca00-43d1-ad6a-4df6efbd9227" />
 Once added, movies appear in a personal, sortable watchlist where users can track what they want to see.
 
 ---
